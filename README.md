@@ -5,7 +5,7 @@ Intelligent Distributed Caching System for InnovateInk.
 ## Overview
 
 InkCache is a next-generation caching infrastructure designed for high-scale publishing systems.
-[https://innovateink.in/cusoc/inkcache](url)
+https://innovateink.in/cusoc/inkcache
 
 ### Features
 
