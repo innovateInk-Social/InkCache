@@ -1,2 +1,33 @@
 # InkCache
-Design and build a next-generation intelligent caching infrastructure capable of serving millions of readers with ultra-low latency while dynamically adapting to traffic patterns, content trends, and regional access behavior.
+
+Intelligent Distributed Caching System for InnovateInk.
+
+## Overview
+
+InkCache is a next-generation caching infrastructure designed for high-scale publishing systems.
+
+### Features
+
+- Multi-layer caching
+- Predictive cache warming
+- Regional cache optimization
+- Intelligent invalidation
+- Traffic-aware cache placement
+
+### Goals
+
+- Reduce content latency
+- Handle millions of requests
+- Improve cache hit ratio
+- Minimize infrastructure costs
+
+### Stack
+
+- Go/Rust/C++
+- Redis (optional benchmarking)
+- gRPC
+- Docker
+
+### License
+
+MIT
